@@ -7,7 +7,7 @@
 ## Overview
 
 This project presents a complete **stock market analytics workflow** built using Excel, focusing on daily historical data for five of India’s most influential banking companies.
-It demonstrates the full lifecycle of analytics — **data cleaning, transformation, feature engineering, KPIs, pivot tables, and dashboard creation** — resulting in a fully interactive and insight-driven Excel dashboard.
+It demonstrates the full lifecycle of analytics - **data cleaning, transformation, feature engineering, KPIs, pivot tables, and dashboard creation** - resulting in a fully interactive and insight-driven Excel dashboard.
 
 The analysis covers the five major banks shown across the dataset :
 
@@ -141,6 +141,6 @@ The Stock Market Analytics Dashboard demonstrates how Excel can function as a **
 * Multi-dimensional market insights
 * Technical, temporal, and sentiment-driven analysis
 
-It provides a comprehensive view of stock behavior across five major Indian banks, supporting data-driven financial decisions and insights into market dynamics (page 28) .
+It provides a comprehensive view of stock behavior across five major Indian banks, supporting data-driven financial decisions and insights into market dynamics.
 
 ---
