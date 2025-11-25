@@ -142,5 +142,3 @@ The Stock Market Analytics Dashboard demonstrates how Excel can function as a **
 * Technical, temporal, and sentiment-driven analysis
 
 It provides a comprehensive view of stock behavior across five major Indian banks, supporting data-driven financial decisions and insights into market dynamics.
-
----
