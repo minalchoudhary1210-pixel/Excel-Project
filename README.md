@@ -9,7 +9,7 @@
 This project presents a complete **stock market analytics workflow** built using Excel, focusing on daily historical data for five of India’s most influential banking companies.
 It demonstrates the full lifecycle of analytics — **data cleaning, transformation, feature engineering, KPIs, pivot tables, and dashboard creation** — resulting in a fully interactive and insight-driven Excel dashboard.
 
-The analysis covers the five major banks shown across the dataset (page 4–8) :
+The analysis covers the five major banks shown across the dataset :
 
 * **HDFC Bank**
 * **ICICI Bank**
@@ -46,7 +46,7 @@ This enriched dataset supports deeper trend, volatility, and return analysis.
 
 ## Data Cleaning & Preparation
 
-The project includes a detailed cleaning workflow (pages 11–14) :
+The project includes a detailed cleaning workflow :
 
 * Standardized date formats
 * Normalized volume values (e.g., M → millions)
@@ -62,7 +62,7 @@ Clean data serves as the foundation for accurate KPIs and dashboard insights.
 
 ## Feature Engineering
 
-Several transformation fields were created to enhance analytical depth (pages 15–18) :
+Several transformation fields were created to enhance analytical depth :
 
 * **Daily Returns & % Change**
 * **Volatility Metrics (High–Low % Range)**
@@ -76,7 +76,7 @@ These engineered features support trend detection, volatility tracking, and comp
 
 ## KPIs & Pivot Table Metrics
 
-Key performance indicators built using PivotTables (page 19–23) :
+Key performance indicators built using PivotTables :
 
 * **Highest Close Price**
 * **Lowest Close Price**
@@ -90,8 +90,6 @@ These KPIs update dynamically based on user selections in the dashboard.
 ---
 
 ## Dashboard Visuals & Interactivity
-
-As outlined in the report (page 20–24) , the dashboard integrates:
 
 ### Filters & Slicers:
 
@@ -115,8 +113,6 @@ The dashboard mimics professional BI tools like Power BI or Tableau but built en
 ---
 
 ## Insights Discovered
-
-Based on the insights section :
 
 ### **1. Volume surges often indicate high-volatility days**
 
